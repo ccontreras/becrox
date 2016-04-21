@@ -1,3 +1,3 @@
 # becrox
 
-a [Sails](http://sailsjs.org) application
+Backend application on Sails.
