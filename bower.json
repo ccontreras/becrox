@@ -1,0 +1,22 @@
+{
+  "name": "becrox",
+  "description": "Backend for Becrox website.",
+  "version": "1.0",
+  "main": "app.js",
+  "authors": [
+    "Cesar E. Contreras <ccdl15c@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "becrox.com",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "1.5.5"
+  }
+}
